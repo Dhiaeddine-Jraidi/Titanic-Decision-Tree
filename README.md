@@ -1,1 +1,2 @@
-# Titanic-Decision-Tree
+# Difficulty - LOW.
+Training a decision tree classification model that can predict whether a given passenger on the Titanic survived or not based on their characteristics. Once the model is trained, it can be used to make predictions on new passengers by analyzing their features and assigning a predicted class label. For classification, the decision tree algorithm splits the data into smaller and smaller subsets based on the values of the input features, with the goal of minimizing the impurity of each subset. The algorithm continues to split the data until it can no longer improve the purity of the subsets, at which point it assigns a final class label to each subset.
